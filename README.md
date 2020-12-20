@@ -1,2 +1,2 @@
-# FRI_UR_10
-Test za vajo 10 - UR
+# UR vaja 10
+print("Repozitorij, datoteke, fork, pull, komentarji,...")
